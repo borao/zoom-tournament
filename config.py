@@ -1,6 +1,9 @@
 import os
+from dotenv import load_dotenv
 
-NUMBER_OF_ROOMS = 5
+load_dotenv()
+
+NUMBER_OF_ROOMS = 3
 
 KEY = os.environ.get("KEY")
 SECRET = os.environ.get("SECRET")

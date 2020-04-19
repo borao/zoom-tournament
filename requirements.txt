@@ -1,0 +1,3 @@
+python-dotenv~=0.13.0
+zoomus~=1.1.3
+pandas~=1.0.3
